@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\hp\\Downloads\\Twende-Practice1\\Twende-Practice1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\3145988fb67fb1a6d44df4b4e3dc3813\\jetified-firebase-ui-auth-6.2.0\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,186,247,302,356,414",
+                        "endColumns": "69,60,60,54,53,57,56",
+                        "endOffsets": "120,181,242,297,351,409,466"
+                    }
+                }
+            ]
+        }
+    ]
+}
