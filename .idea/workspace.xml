@@ -6,6 +6,7 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="windowac" />
     <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
@@ -53,6 +54,14 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1eYCwAglICU8CiosREbn9tXFicz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -65,6 +74,12 @@
   </component>
   <component name="RecentsManager">
     <key name="android.template.-1210900956">
+      <recent name="com.example.android.twende" />
+    </key>
+    <key name="android.template.2142292972">
+      <recent name="com.example.android.twende" />
+    </key>
+    <key name="android.template.186495368">
       <recent name="com.example.android.twende" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -169,18 +184,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1601244607711">
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1602420122913">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1601244607711" />
-    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601243729132">
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602420122913" />
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602420641713">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1601243729132" />
-    <state x="263" y="139" key="AndroidCreateResourceFileDialog" timestamp="1595773672781">
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1602420641713" />
+    <state x="263" y="139" key="AndroidCreateResourceFileDialog" timestamp="1602420822844">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="263" y="139" key="AndroidCreateResourceFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1595773672781" />
+    <state x="263" y="139" key="AndroidCreateResourceFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1602420822844" />
     <state x="541" y="197" key="AndroidCreateXmlResourceDialog" timestamp="1600544576501">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -189,30 +204,34 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1600237867361" />
-    <state width="1323" height="562" key="GridCell.Tab.0.bottom" timestamp="1601245200990">
+    <state width="1326" height="78" key="GridCell.Tab.0.bottom" timestamp="1602425650368">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="562" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601245200990" />
-    <state width="1323" height="562" key="GridCell.Tab.0.center" timestamp="1601245200989">
+    <state width="1326" height="78" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602425650368" />
+    <state width="1326" height="78" key="GridCell.Tab.0.center" timestamp="1602425650368">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="562" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601245200989" />
-    <state width="1323" height="562" key="GridCell.Tab.0.left" timestamp="1601245200989">
+    <state width="1326" height="78" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602425650368" />
+    <state width="1326" height="78" key="GridCell.Tab.0.left" timestamp="1602425650368">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="562" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601245200989" />
-    <state width="1323" height="562" key="GridCell.Tab.0.right" timestamp="1601245200990">
+    <state width="1326" height="78" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602425650368" />
+    <state width="1326" height="78" key="GridCell.Tab.0.right" timestamp="1602425650368">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="562" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601245200990" />
+    <state width="1326" height="78" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602425650368" />
     <state x="92" y="92" width="1182" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1595767290040">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="92" y="92" width="1182" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.768@0.0.1366.768" timestamp="1595767290040" />
-    <state width="402" height="82" key="javadoc.popup.new" timestamp="1601244777912">
+    <state x="454" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1602420037683">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="402" height="82" key="javadoc.popup.new/0.0.1366.768@0.0.1366.768" timestamp="1601244777912" />
+    <state x="454" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768@0.0.1366.768" timestamp="1602420037683" />
+    <state width="402" height="82" key="javadoc.popup.new" timestamp="1602510473316">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="402" height="82" key="javadoc.popup.new/0.0.1366.768@0.0.1366.768" timestamp="1602510473316" />
     <state x="661" y="174" key="run.anything.popup" timestamp="1601244573189">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

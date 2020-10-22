@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single"/>
+    <item android:title="Message"
+        android:id="@+id/nav_message"/>
+
+    <group
+        android:checkableBehavior="all">
+
+        <item
+            android:id="@+id/nav_yourtrips"
+            android:title= "Your Trips" />
+
+        <item
+            android:id="@+id/nav_help"
+            android:title="Help" />
+        <item
+            android:id="@+id/nav_payment"
+            android:title="Payment" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:title="Settings" />
+
+    </group>
+
+
+
+
+</menu>

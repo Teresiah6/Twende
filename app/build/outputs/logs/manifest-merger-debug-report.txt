@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-62:12
 MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\9d9ba218892b14f546288a3e7bae8a74\navigation-ui-2.2.2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:2:1-109:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b85b7e0481f3222852aee40ec4c0fa26\material-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -18,9 +18,9 @@ MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\hp\.gradle\
 MERGED from [com.google.firebase:firebase-analytics:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\54867c9f03b007eeeec6f0e4aff3c685\jetified-firebase-analytics-17.4.3\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6d14325ed35863757137b9086d7822f7\jetified-play-services-auth-18.0.0\AndroidManifest.xml:17:1-39:12
-MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0f531e27d36f966ff60e67ec864464e0\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:15:1-38:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a1fc0b2adf82a6164581ef54edf18c2a\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.browser:browser:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\be0ed6dae355adebfb0e21d1fd98f145\browser-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\92ce3a89a1e2e98c17f9b4d15e21ae72\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -84,35 +84,35 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hp\.gradle\cache
 MERGED from [androidx.print:print:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b55ae32354d6a01c1a54b392cc10599e\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\eff3b887575ba11b32853a4f6c021ff5\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [io.michaelrocks:libphonenumber-android:8.10.14] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\dd9ef99365e4b1ba42e8279ed2294bca\jetified-libphonenumber-android-8.10.14\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-62:12
 	package
 		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:3:5-41
 		INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-62:12
 		INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:1-62:12
 		INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:5:5-79
+ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:5:22-76
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:10:22-76
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:7:5-67
+ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:11:5-67
 MERGED from [com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:13:5-67
 MERGED from [com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:13:5-67
-MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e50c4481e121e43b9fce9973d991103\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e50c4481e121e43b9fce9973d991103\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d5552a3996f76de5fed58bcb0a1e63b5\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:22:5-67
@@ -126,13 +126,31 @@ MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\hp\.gra
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e7a1569937cb559168f77ba807e1a558\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e7a1569937cb559168f77ba807e1a558\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:7:22-64
-uses-permission#android.permission.ACCESS_FNE_LOCATION
-ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:8:5-78
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:12:5-78
+MERGED from [com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:12:5-79
+MERGED from [com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e50c4481e121e43b9fce9973d991103\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e50c4481e121e43b9fce9973d991103\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d5552a3996f76de5fed58bcb0a1e63b5\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d5552a3996f76de5fed58bcb0a1e63b5\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ef8fa6881ecce79b4ffcc1403c8dce65\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ef8fa6881ecce79b4ffcc1403c8dce65\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13d8d8b1efb3455f1d2cb9103ff3556f\jetified-firebase-iid-20.1.5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13d8d8b1efb3455f1d2cb9103ff3556f\jetified-firebase-iid-20.1.5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2ebd4a41fa7c7daceab7065f37bffed6\jetified-firebase-installations-16.2.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2ebd4a41fa7c7daceab7065f37bffed6\jetified-firebase-installations-16.2.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e7a1569937cb559168f77ba807e1a558\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e7a1569937cb559168f77ba807e1a558\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:8:22-75
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:12:22-76
 application
-ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:10:5-31:19
+ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:15:5-60:19
 MERGED from [com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:15:5-107:19
 MERGED from [com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:15:5-107:19
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b85b7e0481f3222852aee40ec4c0fa26\material-1.1.0\AndroidManifest.xml:22:5-20
@@ -149,12 +167,12 @@ MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\hp\.gradle\cache
 MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6d14325ed35863757137b9086d7822f7\jetified-play-services-auth-18.0.0\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6d14325ed35863757137b9086d7822f7\jetified-play-services-auth-18.0.0\AndroidManifest.xml:22:5-37:19
-MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0f531e27d36f966ff60e67ec864464e0\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0f531e27d36f966ff60e67ec864464e0\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e50c4481e121e43b9fce9973d991103\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:28:5-44:19
 MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e50c4481e121e43b9fce9973d991103\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:28:5-44:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d5552a3996f76de5fed58bcb0a1e63b5\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:26:5-34:19
@@ -198,45 +216,55 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hp
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b51ad2129f7ae88186ad90508b79ab\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:20:9-35
 	android:label
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:18:9-41
 	android:roundIcon
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:19:9-54
 	android:icon
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:17:9-43
 	android:allowBackup
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:16:9-35
 	android:theme
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:16:9-40
-activity#com.example.android.twende.MainActivity
-ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:17:9-59
-	android:name
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:17:19-47
-activity#com.example.android.twende.SignupActivity
-ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:19:9-52
-	android:name
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:19:19-49
-activity#com.example.android.twende.SplashActivity
-ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:20:9-26:20
-	android:name
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:20:19-49
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:21:13-25:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:22:17-69
-	android:name
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:22:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:24:17-77
-	android:name
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:24:27-74
-meta-data#com.google.android.API_KEY
-ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:28:9-30:71
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:21:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:31:9-33:52
 	android:value
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:30:13-68
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:33:13-49
 	android:name
-		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:29:13-54
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:32:13-58
+activity#com.example.android.twende.MainActivity
+ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:36:9-39:59
+	android:label
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:39:13-56
+	android:theme
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:37:13-41
+activity#com.example.android.twende.SignupActivity
+ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:48:9-52
+	android:name
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:48:19-49
+activity#com.example.android.twende.SplashActivity
+ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:49:9-55:20
+	android:name
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:49:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:53:27-74
+meta-data#com.google.android.API_KEY
+ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:57:9-59:71
+	android:value
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:59:13-68
+	android:name
+		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml:58:13-54
 uses-sdk
 INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml
@@ -269,12 +297,12 @@ MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\hp\.gradle\cache
 MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:21:5-44
 MERGED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6d14325ed35863757137b9086d7822f7\jetified-play-services-auth-18.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6d14325ed35863757137b9086d7822f7\jetified-play-services-auth-18.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0f531e27d36f966ff60e67ec864464e0\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0f531e27d36f966ff60e67ec864464e0\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a1fc0b2adf82a6164581ef54edf18c2a\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a1fc0b2adf82a6164581ef54edf18c2a\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\be0ed6dae355adebfb0e21d1fd98f145\browser-1.0.0\AndroidManifest.xml:20:5-44
@@ -411,26 +439,6 @@ INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\ma
 		INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\hp\Downloads\Twende-Practice1\Twende-Practice1\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:12:5-79
-MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:25:5-79
-MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e50c4481e121e43b9fce9973d991103\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e50c4481e121e43b9fce9973d991103\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d5552a3996f76de5fed58bcb0a1e63b5\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d5552a3996f76de5fed58bcb0a1e63b5\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ef8fa6881ecce79b4ffcc1403c8dce65\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ef8fa6881ecce79b4ffcc1403c8dce65\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13d8d8b1efb3455f1d2cb9103ff3556f\jetified-firebase-iid-20.1.5\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13d8d8b1efb3455f1d2cb9103ff3556f\jetified-firebase-iid-20.1.5\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2ebd4a41fa7c7daceab7065f37bffed6\jetified-firebase-installations-16.2.1\AndroidManifest.xml:10:5-79
-MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2ebd4a41fa7c7daceab7065f37bffed6\jetified-firebase-installations-16.2.1\AndroidManifest.xml:10:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e7a1569937cb559168f77ba807e1a558\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e7a1569937cb559168f77ba807e1a558\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:24:5-79
-	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:12:22-76
 meta-data#com.google.android.gms.version
 ADDED from [com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:16:9-18:69
 MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\37f871a81691d44ae6fca0ee54feba60\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
@@ -671,12 +679,6 @@ ADDED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\hp\.gradl
 		ADDED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6d14325ed35863757137b9086d7822f7\jetified-play-services-auth-18.0.0\AndroidManifest.xml:36:13-107
 	android:name
 		ADDED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6d14325ed35863757137b9086d7822f7\jetified-play-services-auth-18.0.0\AndroidManifest.xml:34:13-89
-meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
-ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:32:13-34:85
-	android:value
-		ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:34:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:33:17-109
 uses-feature#0x00020000
 ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
@@ -689,6 +691,12 @@ ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradl
 		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
 	android:name
 		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f25cb47cdff75fe8ba838175dae7fbed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:33:17-109
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e50c4481e121e43b9fce9973d991103\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d5552a3996f76de5fed58bcb0a1e63b5\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:24:5-68
